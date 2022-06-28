@@ -7,7 +7,7 @@ This repository has the code for the Strain Gauges custom board that our team is
 * STLink v.2 or any Nucleo device to succesfully flash the MCU.
 
 ## Usefull / Inspiration
-* [MAX6675 library](https://github.com/Bardia-Afshar/MAX31855-MAX6675-STM32) for STM32 platform using ``HAL`` drivers.
+* [MAX6675 library](https://github.com/Centaurus-Racing-Team/MAX31855-MAX6675-STM32) for STM32 platform using ``HAL`` drivers.
 
 <br>
 
